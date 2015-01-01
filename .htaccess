@@ -1,0 +1,5 @@
+ErrorDocument 404 /404.html
+SetEnvIfNoCase Referer darodar.com spambot=yes
+Order allow,deny
+Allow from all
+Deny from env=spambot

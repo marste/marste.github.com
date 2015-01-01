@@ -1,0 +1,48 @@
+html {
+font-family: "PT Serif", Georgia, "Times New Roman", serif;
+font-size: 16px;
+}
+html {
+font-size: 20px;
+}
+a {
+color: #000;
+text-decoration: none;
+}
+a:hover {
+text-decoration: none;
+color: #55acee;
+}
+#arenas-of-awesome {
+position: absolute;
+top: 45%;
+}
+#arenas-of-awesome ul {
+position: absolute;
+top: -50px;
+width: 800px;
+height: 100px;
+}
+#arenas-of-awesome li {
+list-style-type: none;
+float: left;
+margin-left: 6px;
+font-size: 48px;
+}
+#arenas-of-awesome li:first-child {
+margin-left: 0;
+}
+body {
+background-color: white;
+width: 44em;
+margin-left: auto;
+margin-right: auto;
+font-family: "PT Serif",Georgia,"Times New Roman",serif;
+font-size: 20px;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+line-height: 40px;
+color: #515151;
+text-rendering: optimizelegibility;
+}
